@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parth Padalkar</h1>
-<h3 align="center">Research|Neurosymbolic AI|ML|NLP|RL</h3>
+<h3 align="center">I am a researcher, working on Neurosymbolic AI, Computer Vision, ML, and Reinforcement Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petrichor1998&label=Profile%20views&color=0e75b6&style=flat" alt="petrichor1998" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petrichor1998" alt="petrichor1998" /></a> </p>
 
 - 🌱 I’m currently learning **Probabilistic graphical models such as Bayesian Nets, HMMs, MRFs, etc.**
 
