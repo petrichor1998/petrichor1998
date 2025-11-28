@@ -4,17 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petrichor1998&label=Profile%20views&color=0e75b6&style=flat" alt="petrichor1998" /> </p>
 
 
-- 🌱 I’m currently learning **Probabilistic graphical models such as Bayesian Nets, HMMs, MRFs, etc.**
-
-- 👨‍💻 All of my projects are available at [https://petrichor1998.github.io/projects](https://petrichor1998.github.io/projects)
-
 - 📝 I regularly write articles on [https://petrichor1998.github.io/blog](https://petrichor1998.github.io/blog)
 
 - 💬 Lets Discuss about **Machine Learning, LLMs, Logic Programming, Symbolic AI, Neurosymbolic AI**
 
 - 📫 How to reach me **parth.padalkar@utdallas.edu**
 
-- 📄 Know about my experiences [https://petrichor1998.github.io/cv/](https://petrichor1998.github.io/cv/)
+- 📄 Know about my experiences [https://petrichor1998.github.io](https://petrichor1998.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
